@@ -7,12 +7,12 @@
 
 ---
 
-## 📌 Objective  
+## Objective  
 Developed a machine learning–based solution for **INN Hotels Group** (Portugal) to predict hotel booking cancellations, enabling proactive policy design to reduce revenue loss, operational inefficiencies, and last-minute price cuts.  
 
 ---
 
-## 🔍 Key Highlights  
+## Key Highlights  
 
 ### **Exploratory Data Analysis (EDA)**  
 - Analyzed **36,275 bookings** across **19 features**, identifying key drivers of cancellations such as **lead time**, **average price per room**, **market segment**, and **number of special requests**.  
@@ -34,7 +34,7 @@ Developed a machine learning–based solution for **INN Hotels Group** (Portugal
 
 ---
 
-## 📊 Model Performance  
+## Model Performance  
 
 | Model                         | Accuracy | Precision (Cancel) | Recall (Cancel) | F1-Score (Cancel) |
 |--------------------------------|----------|--------------------|-----------------|-------------------|
@@ -46,7 +46,7 @@ Developed a machine learning–based solution for **INN Hotels Group** (Portugal
 
 ---
 
-## 💡 Business Recommendations  
+## Business Recommendations  
 1. **Incentivize long lead-time bookings** with perks to reduce cancellation risk.  
 2. **Adjust pricing strategies** for high-risk segments to improve retention.  
 3. **Use special requests as a retention indicator** — customers with more requests cancel less.  
@@ -54,12 +54,12 @@ Developed a machine learning–based solution for **INN Hotels Group** (Portugal
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn`  
 
 ---
 
-## 📚 Skills Demonstrated  
+## Skills Demonstrated  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature Engineering  
@@ -69,7 +69,7 @@ Developed a machine learning–based solution for **INN Hotels Group** (Portugal
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 ```plaintext
 ├── data/                # Dataset files  
 ├── notebooks/           # Jupyter notebooks for EDA & modeling  
